@@ -1,0 +1,6 @@
+{
+  "name": "Spooky Doge Core 1.5 - Intranet Halloween Shootout",
+  "description": "Offline intranet multiplayer Halloween giveaway game connecting to Dogecoin Core 1.5.0.0 with 9,000 DOGE prize pool, rapid address shootout, private key rewards, and multi-player cash-out wallets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
